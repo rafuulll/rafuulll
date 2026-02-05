@@ -1,20 +1,30 @@
 <h1 align="left">E aí 👋 Tudo certo?</h1>
 
 <p align="left">
-Meu nome é Rafael Maschietto, sou estudante de <strong>Engenharia da Computação</strong>
+Meu nome é Rafael Maschietto, sou estudante de <strong>Engenharia da Computação</strong><br>
+🎯 <strong>Foco em desenvolvimento backend com Java, Spring Boot e APIs REST</strong>
 </p>
 
----
+<hr>
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
-<p align="left">
-- 🌿 **Projeto em destaque:** [EcoTrack](https://github.com/rafuulll/ecotrack) - Gestão de curadoria e vendas com Java, Spring Boot e Docker.
-- 🎓 Estudante de Engenharia da Computação na FACENS.
-- 🚀 Procurando sempre aprender novas tecnologias.
-</p>
+<ul>
+  <li>🌿 <strong>Projeto em destaque:</strong> <a href="https://github.com/rafuulll/ecotrack">EcoTrack</a> — Gestão de curadoria e vendas com Java, Spring Boot e Docker.</li>
+  <li>🎓 Estudante de Engenharia da Computação na FACENS.</li>
+  <li>🚀 Sempre buscando evoluir tecnicamente e aprender novas tecnologias.</li>
+</ul>
 
----
+<hr>
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafuulll&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafuulll&layout=compact&theme=default&hide_border=true" height="150" />
+</div>
+
+<hr>
 
 <h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
 
@@ -28,7 +38,7 @@ Meu nome é Rafael Maschietto, sou estudante de <strong>Engenharia da Computaç�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  
+
   <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
@@ -47,12 +57,15 @@ Meu nome é Rafael Maschietto, sou estudante de <strong>Engenharia da Computaç�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
 </div>
 
----
+<hr>
 
 <h2 align="left">📫 Vamos conversar?</h2>
 
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-maschietto-mastromauro-6632aa2b8/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafammastro@gmail.com)
+  <a href="https://www.linkedin.com/in/rafael-maschietto-mastromauro-6632aa2b8/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rafammastro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
