@@ -2,7 +2,7 @@
 
 <p align="left">
 Meu nome é Rafael Maschietto, sou estudante de <strong>Engenharia da Computação</strong><br>
-🎯 <strong>Foco em desenvolvimento backend com Java, Spring Boot e APIs REST</strong>
+🎯 Foco em desenvolvimento backend com Java, Spring Boot e APIs REST
 </p>
 
 <hr>
@@ -14,17 +14,6 @@ Meu nome é Rafael Maschietto, sou estudante de <strong>Engenharia da Computaç�
   <li>🎓 Estudante de Engenharia da Computação na FACENS.</li>
   <li>🚀 Sempre buscando evoluir tecnicamente e aprender novas tecnologias.</li>
 </ul>
-
-<hr>
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafuulll&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafuulll&layout=compact&theme=default&hide_border=true" height="150" />
-</div>
-
-<hr>
 
 <h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
 
