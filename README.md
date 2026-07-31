@@ -84,9 +84,14 @@ O projeto teve foco em **fidelidade ao design, responsividade, performance, micr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
 </div>
 
-🤖 IA & Desenvolvimento
+### 🤖 IA & Desenvolvimento
 
-<div align="left"> <strong>Claude Code</strong> <img width="12" /> <strong>Google Antigravity</strong> </div>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/claude" height="40" alt="Claude Code" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/google" height="40" alt="Google Antigravity" />
+</div>
+
 
 ---
 
