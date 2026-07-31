@@ -70,7 +70,7 @@ O projeto teve foco em **fidelidade ao design, responsividade, performance, micr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
 </div>
 
-### Ferramentas
+### 🔧 Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -82,12 +82,16 @@ O projeto teve foco em **fidelidade ao design, responsividade, performance, micr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
-### 🤖 IA & Desenvolvimento
+### 🤖 Inteligência Artificial
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/claude" height="40" alt="Claude Code" />
+  <img src="https://cdn.simpleicons.org/openai" height="40" alt="ChatGPT" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="Claude Code" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/google" height="40" alt="Google Antigravity" />
 </div>
