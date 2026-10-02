@@ -1,46 +1,88 @@
 <h1 align="left">Olá! Eu sou o Rafael 👋</h1>
 
 <p align="left">
-  🎓 Estudante de <strong>Engenharia da Computação</strong> na FACENS
+  🎓 Estudante de <strong>Engenharia da Computação</strong> na FACENS (6º semestre)
   <br>
-  💻 Desenvolvedor com foco em <strong>Frontend</strong> e desenvolvimento web
+  📊 Interesse em <strong>dados e tecnologia aplicada à indústria</strong>
   <br>
-  🚀 Atualmente aprofundando meus conhecimentos em <strong>Java, Spring Boot, APIs REST, UI/UX e Inteligência Artificial</strong>
+  🤖 Uso <strong>IA no desenvolvimento</strong> e estou em formação em <strong>UX Design</strong>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia da Computação na FACENS e venho construindo minha experiência através de projetos práticos de desenvolvimento de software.
+Estudo Engenharia da Computação na FACENS e trabalho como auxiliar de produção. Ver de perto o dia a dia de uma linha de produção me fez querer entender como dados e software podem ajudar nesse tipo de ambiente, e como transformar informação em algo que as pessoas consigam usar de verdade.
 
-Tenho como principal foco o desenvolvimento Web **Backend com Java e Spring Boot**, trabalhando com **HTML, CSS, JavaScript, React e UI/UX**, desde a criação de interfaces no Figma até a implementação responsiva.
+Meus projetos passam por algumas frentes:
 
-Atualmente também estou explorando o uso de **Inteligência Artificial no desenvolvimento de software e produtos digitais**.
+- **Dados:** pipelines em Python e SQL, indicadores de produção e detecção de anomalias
+- **Desenvolvimento:** APIs REST com Java e Spring Boot, interfaces com React e JavaScript
+- **UX/UI:** do Figma ao código, com foco em usabilidade. Estou cursando a formação **IA UX Designer (UX Unicórnio)**
+- **IA aplicada ao desenvolvimento:** uso Claude Code, ChatGPT e Google Antigravity no dia a dia para estruturar, prototipar e revisar código, sempre entendendo e validando o que vai para o projeto
+- **IoT:** integração de dispositivos com ESP32 e MQTT
 
-🎯 Busco uma oportunidade de **estágio em desenvolvimento de software**, onde possa aplicar meus conhecimentos, aprender com uma equipe experiente e evoluir profissionalmente.
+Busco uma oportunidade de **estágio em tecnologia, dados, automação ou desenvolvimento de software**.
 
 ---
 
 ## 🚀 Projeto em destaque
 
-### 🦷 Meridian Dental Studio — Landing Page
+### 🏭 Industrial Analytics: monitoramento de produção e manutenção
 
-Landing page editorial desenvolvida a partir de um design criado no Figma e implementada do zero com HTML, CSS e JavaScript.
+Pipeline em Python e SQL que simula 90 dias de uma célula com 5 máquinas CNC, limpa os dados, calcula **OEE**, defeitos e paradas, e usa **carta de controle estatística** para avisar quando uma máquina começa a sair do normal. Nos cenários simulados, o alerta apareceu até **23 dias antes** da queda de produção.
 
-O projeto teve foco em **fidelidade ao design, responsividade, performance, microinterações e experiência do usuário**, com suporte para desktop, tablet e mobile.
+`Python` `pandas` `NumPy` `Matplotlib` `SQLite` `pytest`
 
-**Tecnologias:**
-
-`HTML5` `CSS3` `JavaScript` `Figma` `Node.js`
-
-🔗 [Ver projeto no GitHub](https://github.com/rafuulll/clinica-odontologica-lp)
-
-🌐 [Ver projeto online](https://clinica-odontologica-lp.vercel.app/)
+🔗 [Ver projeto](https://github.com/rafuulll/industrial-analytics)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 📌 Outros projetos
+
+### 🏠 Casa Inteligente com IoT e IA (projeto acadêmico, UPX)
+
+Controle de dispositivos por dashboard web e por comandos em linguagem natural com IA. Comunicação React → Node.js → MQTT (HiveMQ) → ESP32 simulado no Wokwi.
+
+`React` `Node.js` `MQTT` `ESP32` `Docker` `IA`
+
+🔗 [Ver projeto](https://github.com/rafuulll/projeto-casa-inteligente-upx)
+
+### 🦷 Meridian Dental Studio
+
+Landing page editorial criada no Figma e implementada do zero, com foco em fidelidade ao design, responsividade, microinterações e experiência do usuário.
+
+`Figma` `HTML5` `CSS3` `JavaScript`
+
+🔗 [GitHub](https://github.com/rafuulll/clinica-odontologica-lp) · 🌐 [Site](https://clinica-odontologica-lp.vercel.app/)
+
+### 🌿 EcoTrack
+
+API REST em Java e Spring Boot para acompanhar o ciclo de vida de produtos de revenda (avaliação, higienização, anúncio e venda), com MySQL, Swagger e Docker Compose.
+
+`Java` `Spring Boot` `MySQL` `Docker` `Swagger`
+
+🔗 [Ver projeto](https://github.com/rafuulll/ecotrack)
+
+---
+
+## 🛠️ Tecnologias
+
+### Dados
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest" />
+</div>
 
 ### Backend
 
@@ -56,9 +98,11 @@ O projeto teve foco em **fidelidade ao design, responsividade, performance, micr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
-### Frontend & Web
+### Frontend e UX/UI
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -66,11 +110,24 @@ O projeto teve foco em **fidelidade ao design, responsividade, performance, micr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
 </div>
 
-### 🔧 Ferramentas
+### IA no desenvolvimento
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+</div>
+
+### IoT
+
+<div align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+</div>
+
+### Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -82,34 +139,23 @@ O projeto teve foco em **fidelidade ao design, responsividade, performance, micr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Estudando agora
 
-* 🎨 UI/UX Design e Figma
-* 🤖 Inteligência Artificial aplicada ao desenvolvimento
-
----
-
-## 📌 Outros projetos
-
-### 🌿 EcoTrack
-
-Sistema desenvolvido com Java e Spring Boot para gerenciamento de produtos.
-**Stack:** `Java` `Spring Boot` `MySQL` `Docker` `REST API`
-
-🔗 [Ver projeto](https://github.com/rafuulll/ecotrack)
+- 🎨 Formação IA UX Designer (UX Unicórnio)
+- 📈 Controle estatístico de processo e indicadores de manufatura (OEE, Pareto)
+- 📊 Power BI, unindo análise de dados e design de dashboards
+- 🤖 IA aplicada ao desenvolvimento de software
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rafael-maschietto-mastromauro-6632aa2b8/">
+  <a href="https://www.linkedin.com/in/rafaelmaschietto/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rafammastro@gmail.com">
