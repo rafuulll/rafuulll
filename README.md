@@ -38,34 +38,6 @@ Pipeline em Python e SQL que simula 90 dias de uma célula com 5 máquinas CNC, 
 
 ---
 
-## 📌 Outros projetos
-
-### 🏠 Casa Inteligente com IoT e IA (projeto acadêmico, UPX)
-
-Controle de dispositivos por dashboard web e por comandos em linguagem natural com IA. Comunicação React → Node.js → MQTT (HiveMQ) → ESP32 simulado no Wokwi.
-
-`React` `Node.js` `MQTT` `ESP32` `Docker` `IA`
-
-🔗 [Ver projeto](https://github.com/rafuulll/projeto-casa-inteligente-upx)
-
-### 🦷 Meridian Dental Studio
-
-Landing page editorial criada no Figma e implementada do zero, com foco em fidelidade ao design, responsividade, microinterações e experiência do usuário.
-
-`Figma` `HTML5` `CSS3` `JavaScript`
-
-🔗 [GitHub](https://github.com/rafuulll/clinica-odontologica-lp) · 🌐 [Site](https://clinica-odontologica-lp.vercel.app/)
-
-### 🌿 EcoTrack
-
-API REST em Java e Spring Boot para acompanhar o ciclo de vida de produtos de revenda (avaliação, higienização, anúncio e venda), com MySQL, Swagger e Docker Compose.
-
-`Java` `Spring Boot` `MySQL` `Docker` `Swagger`
-
-🔗 [Ver projeto](https://github.com/rafuulll/ecotrack)
-
----
-
 ## 🛠️ Tecnologias
 
 ### Dados
