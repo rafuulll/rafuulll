@@ -25,7 +25,6 @@ Busco estágio como **AI Builder, AI Engineering ou dados**.
 ## Agora
 
 - Finalizando o **CareTwin** para a apresentação de novembro: montagem da pulseira com ESP32-S3 e explicações dos dados em linguagem natural com um LLM local (Ollama)
-- Construindo o **Entrega Clara**: agente de atendimento e logística com dados reais de e-commerce, tickets e evals que medem a taxa de acerto
 - Estudando agentes de IA (IBM SkillsBuild) e engenharia de software com IA (imersão Alura e Google)
 
 ## Contato
